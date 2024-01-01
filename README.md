@@ -1,1 +1,2 @@
-# Travel-assistant-GPTour
+# tumo-travel-assistant
+TUMO Travel Assistant
